@@ -1,5 +1,5 @@
 # InfoRet
-This is a a github repository for the information retrieval project of Paul Fuhr with topic "identifying the human values behind arguments". 
+This is a a github repository for the information retrieval project of Paul Fuhr with topic "Human value detection". 
 
 The project report can be found in InfoRetPaulFuhr.pdf.
 
